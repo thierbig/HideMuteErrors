@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Hide Mute Errors
+## Notes: Hides the red error text and mutes error speech
+## Author: Pstar
+## Version: 1.0
+
+HideMuteErrors.lua
