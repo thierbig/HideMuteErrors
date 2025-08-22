@@ -10,8 +10,7 @@ A simple World of Warcraft addon for 3.3.5 client (WotLK) that hides the red UI 
 ## Installation
 1. Download the latest release from the [releases download page](https://github.com/thierbig/HideMuteErrors/releases).
 2. Extract the `HideMuteErrors` folder to your WoW addons directory:
-   - Windows: `World of Warcraft\_retail_\Interface\AddOns\`
-   - Mac: `World of Warcraft/_retail_/Interface/AddOns/`
+   `Interface\AddOns\`
 3. Ensure the folder is named `HideMuteErrors` (no version numbers or extra text).
 4. Launch World of Warcraft and enable the addon in the AddOns menu at the character selection screen.
 
